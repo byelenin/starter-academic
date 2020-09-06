@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Team"
+  url = "#People"
   weight = 40
 
 [[main]]
