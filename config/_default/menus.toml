@@ -21,12 +21,12 @@
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Team"
   url = "#people"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Contact"
